@@ -1,4 +1,4 @@
-const TARGET_BASE = "https://out.zigol.site:42661";
+const TARGET_BASE = "out.zigol.site:42661";
 
 const STRIP_HEADERS = new Set([
   "host",
